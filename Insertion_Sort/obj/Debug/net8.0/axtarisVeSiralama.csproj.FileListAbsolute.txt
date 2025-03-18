@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\bin\Debug\net8.0\axtarisVeSiralama.exe
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\bin\Debug\net8.0\axtarisVeSiralama.deps.json
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\bin\Debug\net8.0\axtarisVeSiralama.runtimeconfig.json
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\bin\Debug\net8.0\axtarisVeSiralama.dll
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\bin\Debug\net8.0\axtarisVeSiralama.pdb
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.dll
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\refint\axtarisVeSiralama.dll
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.pdb
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\axtarisVeSiralama.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\axtarisVeSiralama\axtarisVeSiralama\obj\Debug\net8.0\ref\axtarisVeSiralama.dll
